@@ -13,8 +13,9 @@ T_noise = 900 + 25*6 % Kelvin - INPUT
 % _Look at the figure provided and determine whether it is antipodal or orthogonal._
 % 
 % _If one signal is just a negative image of the other than they are considered 
-% *antipodal signals.* If one signal has the same absolute area as the other than 
-% they are *orthogonal signals* (in other words they have equal power but look 
+% *antipodal signals.* 
+% *Orthogonal signals* are when they have a dot product of zero, they are
+% perpendicular, they have no relation.
 % different)._
 % 
 % _*Antipodal signals have twice the signal energy than that of orthogonal signals 
